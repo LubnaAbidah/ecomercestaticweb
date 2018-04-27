@@ -1,0 +1,17 @@
+.gambar { width:300px; height:300px;}
+	.batas { border:0px solid red; }
+	.batas1 {  padding:10px; border:1px dashed navy; background-color:#000; }
+	.batas h4 { height:1%; font-weight:bold;
+		margin-top:8px; }
+	.h1, h2 , h3, h4, h5 { text-align:center;}
+	#kepala, #leher, #badan1, #badan2, #footer{ padding:10px;}
+	#kepala { min-height:100px;  background-color:#262121;color:#fff;}
+	#leher1 { min-height:30x;  background-color:powderblue; color:#fff;  font-size:60px;}
+	#badan1 { background-color:powderblue; color:#000;}
+	#badan2 { background-color:#f1f1f1; color:#000; text-align:center;}
+	#footer1 { background-color:#f1f1f1; color:#000; text-align:center;}
+	#footer { background-color:#262121; color:#fff;}
+	#Judul { text-align:center; font-family:Creampuff; color:powderblue;}
+	/*#badan2 { background-color:#f1f1f1; color:#000; text-align:center;}
+	#footer1 { background-color:#f1f1f1; color:#000; text-align:center;}*/
+	
